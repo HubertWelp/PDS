@@ -1,2 +1,3 @@
 # PDS
-The patient dialog subsystem for a service roboter to be used for impatient care
+Patienten-Dialog-System für einen Service-Roboter im Krankenhaus, welcher Patienten zu Behandlungsräumen oder andere Orte leiten soll ("Follow-Me-Roboter).
+
